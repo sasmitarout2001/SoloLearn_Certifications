@@ -11,4 +11,4 @@ Gaining proficiency in C++, I've delved into object-oriented principles and effi
 **SQL Certification:**
 With an in-depth understanding of SQL, I can design, manage, and query relational databases effectively. This certification validates my skills in optimizing data retrieval, ensuring efficient and secure database operations in various projects.
 
-These SoloLearn certifications not only signify my commitment to continuous learning but also demonstrate my readiness to contribute effectively to diverse software development projects. I look forward to applying these skills in real-world scenarios, bringing value to every project I undertake.
+These SoloLearn certifications not only signify my commitment to continuous learning but also demonstrate my readiness to contribute effectively to diverse software development projects. 
